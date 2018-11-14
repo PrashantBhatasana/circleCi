@@ -7,4 +7,4 @@ jobs:
     steps:
       - checkout
       - run: npm install
-      - eun : npm test
+      - run: npm test
